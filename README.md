@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 💡 I am an aspiring [mentor](https://adplist.org/mentors/brian-lau) on front-end development. If you have any questions that I might be able to help with, message me!
 
-Find out more about me on:
-
 
 ## 📫 How to reach me: 
 
