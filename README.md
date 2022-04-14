@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 ## 📫 How to reach me: 
 
 Website:
-- [brian-lau.ca](www.brian-lau.ca)
+- [brian-lau.ca](https://www.brian-lau.ca)
 
 Blogs: 
-- [brian-lau.ca/blog](www.brian-lau.ca/blog)
+- [brian-lau.ca/blog](https://www.brian-lau.ca/blog)
 
 Socials:
 - [GitHub](https://github.com/wtLau)
