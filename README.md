@@ -21,7 +21,7 @@ Professionally, Brian is an experienced Frontend Developer with years of experti
 
 When Brian's free, he spends most of the time studying open-sourced technologies, building side projects, staying healthy, reading books, brewing pour-over coffee, exploring nature and spending valuable time with friends and family.
 
-On the side, Brian has an ongoing effort to provide free & accessible mentorship for all lovely human beings. Feel free to book a time to chat with me at https://lnkd.in/g8dZ85df :-)
+On the side, Brian has an ongoing effort to provide free & accessible mentorship for all lovely human beings. Feel free to book a time to chat with me at [ADPList](https://adplist.org/mentors/brian-lau) :-)
 
 ## More at:
 
