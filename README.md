@@ -1,4 +1,4 @@
-### Hi there, I am [Brian Lau](https://brian-lau.ca/about)👋
+### Hi stranger, I am [Brian Lau](https://brian-lau.ca/about) 👋
 
 <!--
 **wtLau/wtlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,25 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💼 Professionally, I am a web developer with an obsession for well-crafted design, building seamless experiences for users. I'm big on growth and teamwork. If we're gonna build the future, let's have some fun doing it!
+"Brian fuels growth and teamwork with a contagious passion for building a brighter future while having fun!"
 
-🐱‍🏍 When I am not in front of the computer, I spend my time in the gym, measuring my coffee-water extraction ratio, and enjoying time with friends and family in Vancouver.
+## Brief Intro
 
-💡 I am an aspiring [mentor](https://adplist.org/mentors/brian-lau) on front-end development. If you have any questions that I might be able to help with, message me!
+Professionally, Brian is an experienced Frontend Developer with years of expertise in creating innovative and user-friendly web applications. Proficient in Typescript and related front-end technologies, collaborating with cross-functional teams to deliver buttery smooth user experience via readable, testable, reliable, scalable, and maintainable code. Proven track record of delivering successful projects and exceeding team's expectations. Strong communication and problem-solving skills, committed to staying up-to-date with the latest industry trends and technologies.
 
+When Brian's free, he spends most of the time studying open-sourced technologies, building side projects, staying healthy, reading books, brewing pour-over coffee, exploring nature and spending valuable time with friends and family.
 
-## 📫 How to reach me: 
+On the side, Brian has an ongoing effort to provide free & accessible mentorship for all lovely human beings. Feel free to book a time to chat with me at https://lnkd.in/g8dZ85df :-)
 
-Website:
-- [brian-lau.ca](https://www.brian-lau.ca)
+## More at:
 
-Blogs: 
-- [brian-lau.ca/blog](https://www.brian-lau.ca/blog)
-
-Socials:
-- [GitHub](https://github.com/wtLau)
+- [Blog](https://www.brian-lau.ca/blog)
+- [Website](https://www.brian-lau.ca)
 - [LinkedIn](https://www.linkedin.com/in/brian-lau/)
 - [Twitter](https://twitter.com/brian_wtLau)
-
-Mentorships:
 - [ADPList](https://adplist.org/mentors/brian-lau)
+- [YouTube](https://www.youtube.com/@brian-lau)     
