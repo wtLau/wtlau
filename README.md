@@ -31,8 +31,8 @@ On the side, Brian has an ongoing effort to provide free & accessible mentorship
 
 ## Brian's Network
 
-- [Brian's Leaders](https://github.com/stars/wtLau/lists/brian-s-leaders)
-- [Brian's Mentees Network](https://github.com/stars/wtLau/lists/brian-s-mentees-network)
+- [Brian's Circle of Leaders](https://github.com/stars/wtLau/lists/brian-s-circle-of-leaders)
+- [Brian's Circle of Mentees](https://github.com/stars/wtLau/lists/brian-s-circle-ofmentees)
 - [Brian's Meetups/Conferences](https://github.com/stars/wtLau/lists/brian-s-meetups-conferences)
 
 ## More at:
