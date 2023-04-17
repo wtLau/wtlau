@@ -1,4 +1,4 @@
-### Hi stranger, I am [Brian Lau](https://brian-lau.ca/about) 👋
+# Hi stranger, I am [Brian Lau](https://brian-lau.ca/about) 👋
 
 <!--
 **wtLau/wtlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 "Brian fuels growth and teamwork with a contagious passion for building a brighter future while having fun!"
-
-## Brief Intro
 
 Professionally, Brian is an experienced Frontend Developer with years of expertise in creating innovative and user-friendly web applications. Proficient in Typescript and related front-end technologies, collaborating with cross-functional teams to deliver buttery smooth user experience via readable, testable, reliable, scalable, and maintainable code. Proven track record of delivering successful projects and exceeding team's expectations. Strong communication and problem-solving skills, committed to staying up-to-date with the latest industry trends and technologies.
 
