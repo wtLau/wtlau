@@ -23,6 +23,18 @@ When Brian's free, he spends most of the time studying open-sourced technologies
 
 On the side, Brian has an ongoing effort to provide free & accessible mentorship for all lovely human beings. Feel free to book a time to chat with him at [ADPList](https://adplist.org/mentors/brian-lau) :-)
 
+## Brian's Tech Lists
+
+- [Brian's Dream Web Stack](https://github.com/stars/wtLau/lists/brian-s-dream-web-stack)
+- [Brian's Dream Emac/Vim Stack](https://github.com/stars/wtLau/lists/brian-s-dream-emac-vim-stack)
+- [Brian's Dream System/Infra Stack](https://github.com/stars/wtLau/lists/brian-s-dream-system-infra-stack)
+
+## Brian's Network
+
+- [Brian's Leaders](https://github.com/stars/wtLau/lists/brian-s-leaders)
+- [Brian's Mentees Network](https://github.com/stars/wtLau/lists/brian-s-mentees-network)
+- [Brian's Meetups/Conferences](https://github.com/stars/wtLau/lists/brian-s-meetups-conferences)
+
 ## More at:
 
 - [Website](https://www.brian-lau.ca)
