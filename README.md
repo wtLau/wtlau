@@ -25,8 +25,9 @@ On the side, Brian has an ongoing effort to provide free & accessible mentorship
 
 ## More at:
 
-- [Blog](https://www.brian-lau.ca/blog)
 - [Website](https://www.brian-lau.ca)
+- [Blog](https://www.brian-lau.ca/blog)
+- [Github](https://www.github.com/wtlau)
 - [LinkedIn](https://www.linkedin.com/in/brian-lau/)
 - [Twitter](https://twitter.com/brian_wtLau)
 - [ADPList](https://adplist.org/mentors/brian-lau)
