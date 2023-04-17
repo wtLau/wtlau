@@ -44,3 +44,5 @@ On the side, Brian has an ongoing effort to provide free & accessible mentorship
 - [Twitter](https://twitter.com/brian_wtLau)
 - [ADPList](https://adplist.org/mentors/brian-lau)
 - [YouTube](https://www.youtube.com/@brian-lau)     
+
+Feel free to send me a message on LinkedIn or Twitter! :D
