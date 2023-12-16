@@ -1,4 +1,4 @@
-# Hi stranger, I am [Brian Lau](https://brian-lau.ca/about) 👋
+Hi, I am [Brian Lau](https://brian-lau.ca/about) 👋
 
 <!--
 **wtLau/wtlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-"Brian fuels growth and teamwork with a contagious passion for building a brighter future while having fun!"
+I am currently actively seeking a new role as a Frontend Developer.
 
-Professionally, Brian is an experienced Frontend Developer with years of expertise in creating innovative and user-friendly web applications. Proficient in Typescript and related front-end technologies, collaborating with cross-functional teams to deliver buttery smooth user experience via readable, testable, reliable, scalable, and maintainable code. Proven track record of delivering successful projects and exceeding team's expectations. Strong communication and problem-solving skills, committed to staying up-to-date with the latest industry trends and technologies.
+As an experienced Frontend Developer, I bring years of expertise in crafting innovative and user-friendly web applications. I am proficient in React, Typescript, and related front-end technologies.
 
-When Brian's free, he spends most of the time studying open-sourced technologies, building side projects, staying healthy, reading books, brewing pour-over coffee, exploring nature and spending valuable time with friends and family.
+During my free time, I dedicate myself to studying open-sourced technologies, practicing Leetcode, maintaining a healthy lifestyle, reading books, brewing pour-over coffee, exploring nature, and cherishing valuable moments with friends and family.
 
-On the side, Brian has an ongoing effort to provide free & accessible mentorship for all lovely human beings. Feel free to book a time to chat with him at [ADPList](https://adplist.org/mentors/brian-lau) :-)
+On the side, I am committed to providing free and accessible mentorship. If you're interested, feel free to schedule a chat with me on [ADPList](https://adplist.org/mentors/brian-lau) :-)
 
 ## More at:
 
@@ -33,4 +33,4 @@ On the side, Brian has an ongoing effort to provide free & accessible mentorship
 - [ADPList](https://adplist.org/mentors/brian-lau)
 - [YouTube](https://www.youtube.com/@brian-lau)     
 
-Feel free to send me a message on LinkedIn or Twitter! :D
+Feel free to send me a message on LinkedIn!
